@@ -1,0 +1,7 @@
+9 names in the top 40 of fake articles
+1 name in top 40 of true articles
+
+amount of ?'s 4% of real articles, 12% of fake articles
+
+amount titles of real articles starting with "To" 2%, 10% of fake articles
+
